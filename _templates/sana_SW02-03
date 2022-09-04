@@ -14,3 +14,4 @@ GPIO0 Not exposed (used for LED) makes reset difficult if it is ever needed. Tuy
 
 Edit 08/28/2021 : A similar unit, the Youngzuth SW02-03, has been seen with an (unsupportable) WB3S inside.
 
+Edit 09/04/2022 : New Amazon orders have WB3S chip inside.  Can be replaced, but isn't extremely easy.
